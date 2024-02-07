@@ -3,7 +3,7 @@ This repository contains a comprehensive analysis of Clients of an Insurance Com
 
 ## Database
 Link to the website offering this public database: [Insurance Company Benchmark Database](https://archive.ics.uci.edu/dataset/125/insurance+company+benchmark+coil+2000)  
-The dataset have been processed and prepared in a specific file format `.npz`, easier to work with, located in the folder [DATA](https://github.com/lucasmg18/Devanagari-Classifier/tree/main/DATA) of this repository.  
+The dataset is also located in the folder [DATA](https://github.com/lucasmg18/Insurance-Company-Benchmark-Classifier/tree/main/DATA) of this repository.  
 
 ## Language 
 The main natural language of this project is __SPANISH__.  
